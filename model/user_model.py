@@ -107,8 +107,8 @@ class user_model():
         
 
 
-    # def user_signup_model(self):
-    #     return " Hello Ashish This user_signup_model"
+    def user_signup_model(self):
+        return " Hello Ashish This user_signup_model"
     
     
         
